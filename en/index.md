@@ -7,11 +7,13 @@ layout: default
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
   - [Registration <br/> Coming Soon]()
 
-## Upcoming Event: TBA
+## Upcoming Event: January 21st, 2017
 <!--
 [Donskaya 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 -->
-Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
+[Horizon Park Tower 2, Mykoly Amosova St, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
+
+If you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
 ## Previous Speakers
 

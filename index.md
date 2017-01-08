@@ -7,11 +7,13 @@ layout: default
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
   - [Регистрация<br> скоро откроется]()
 
-## Следующая встреча: TBA
+## Следующая встреча: 21 января, 2017
 <!--
 [Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 -->
-Меж тем, если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
+[Горизонт-Парк башня 2, ул. Николая Амосова, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
+
+Если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
 ## Предыдущие встречи
 
