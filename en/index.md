@@ -11,7 +11,7 @@ layout: default
 <!--
 [Donskaya 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 -->
-[Horizon Park Tower 2, Mykoly Amosova St, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
+11 am, [Horizon Park Tower 2, Mykoly Amosova St, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
 
 If you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 

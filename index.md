@@ -11,7 +11,7 @@ layout: default
 <!--
 [Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 -->
-[Горизонт-Парк башня 2, ул. Николая Амосова, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
+11:00, [Горизонт-Парк башня 2, ул. Николая Амосова, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
 
 Если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
