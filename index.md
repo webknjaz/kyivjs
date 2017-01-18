@@ -36,7 +36,7 @@ layout: default
 - ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkCAAAAJDc2ZWVhODdkLWQzYWEtNDQ2Yy1hZGQxLWMyZjhhOWYzODU4Yg.jpg)
 
   >
-    [**Александр Шпак**](https://www.linkedin.com/in/oleksandr-shpak-8915376)
+    [**Александр Шпак**](https://www.linkedin.com/in/oleksandr-shpak-8915376)  
     [Z]()
 
 ## Предыдущие встречи
