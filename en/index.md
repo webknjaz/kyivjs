@@ -31,7 +31,7 @@ If you want to share something with the community, we encourage you to [drop us 
 
   >
     [**Timur Shemsedinov**](https://twitter.com/ImpressAppSrv) && **Alexey Orlenko**  
-    [TBA]()
+    ['Diving into Node.js' or how to start writing RPC and accidentally make node_redis 10 times faster]()
 
 - ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkCAAAAJDc2ZWVhODdkLWQzYWEtNDQ2Yy1hZGQxLWMyZjhhOWYzODU4Yg.jpg)
 

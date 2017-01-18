@@ -31,7 +31,7 @@ layout: default
 
   >
     [**Тимур Шемсединов**](https://twitter.com/ImpressAppSrv) и **Алексей Орленко**  
-    [TBA]()
+    [«Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз]()
 
 - ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkCAAAAJDc2ZWVhODdkLWQzYWEtNDQ2Yy1hZGQxLWMyZjhhOWYzODU4Yg.jpg)
 
