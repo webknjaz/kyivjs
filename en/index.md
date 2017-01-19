@@ -27,10 +27,10 @@ If you want to share something with the community, we encourage you to [drop us 
     [**Alexey Raspopov**](https://twitter.com/alexeyraspopov)  
     ['This time I'll build things the right way']()
 
-- ![]()
+- ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAX1AAAAJGQ4NTQwZjNlLWM2MDgtNDhhMy1iNzgwLTg1NDg5NzM5MDQ2OQ.jpg)
 
   >
-    [**Timur Shemsedinov**](https://twitter.com/ImpressAppSrv) && **Alexey Orlenko**  
+    [**Alexey Orlenko**](https://www.linkedin.com/in/alexeyorlenko)  
     ['Diving into Node.js' or how to start writing RPC and accidentally make node_redis 10 times faster]()
 
 - ![](/static/speakers/oleksandr-shpak.jpg)

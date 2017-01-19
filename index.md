@@ -27,10 +27,10 @@ layout: default
     [**Алексей Распопов**](https://twitter.com/alexeyraspopov)  
     ['This time I'll build things the right way']()
 
-- ![]()
+- ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAX1AAAAJGQ4NTQwZjNlLWM2MDgtNDhhMy1iNzgwLTg1NDg5NzM5MDQ2OQ.jpg)
 
   >
-    [**Тимур Шемсединов**](https://twitter.com/ImpressAppSrv) и **Алексей Орленко**  
+    [**Алексей Орленко**](https://www.linkedin.com/in/alexeyorlenko)  
     [«Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз]()
 
 - ![](/static/speakers/oleksandr-shpak.jpg)
