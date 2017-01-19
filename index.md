@@ -33,11 +33,11 @@ layout: default
     [**Тимур Шемсединов**](https://twitter.com/ImpressAppSrv) и **Алексей Орленко**  
     [«Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз]()
 
-- ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkCAAAAJDc2ZWVhODdkLWQzYWEtNDQ2Yy1hZGQxLWMyZjhhOWYzODU4Yg.jpg)
+- ![](/static/speakers/oleksandr-shpak.jpg)
 
   >
     [**Александр Шпак**](https://www.linkedin.com/in/oleksandr-shpak-8915376)  
-    [Z]()
+    [Structure-event-based programming model in "z" framework]()
 
 ## Предыдущие встречи
 
