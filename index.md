@@ -23,25 +23,25 @@ layout: default
 
     >
       [**Никита Галкин**](https://twitter.com/galk_in)  
-      [Best practices of Node.js use in production]()
+      [Best practices of Node.js use in production](https://galk-in.github.io/kyivjs-2017)
 
   - ![](/static/speakers/alexey-raspopov.jpg)
 
     >
       [**Алексей Распопов**](https://twitter.com/alexeyraspopov)  
-      ['This time I'll build things the right way']()
+      ['This time I'll build things the right way'](https://alexeyraspopov.github.io/the-right-way)
 
   - ![](/static/speakers/alexey-orlenko.jpg)
 
     >
       [**Алексей Орленко**](https://www.linkedin.com/in/alexeyorlenko)  
-      [«Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз]()
+      [«Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз](https://aqrln.github.io/kyivjs-2017)
 
   - ![](/static/speakers/oleksandr-shpak.jpg)
 
     >
       [**Александр Шпак**](https://www.linkedin.com/in/oleksandr-shpak-8915376)  
-      [Structure-event-based programming model in "z" framework]()
+      [Structure-event-based programming model in "z" framework](https://drive.google.com/file/d/0B5hEGrbXzEkMdW9NV21qdG9jeVk/view)
 
 ### [30 января, 2016](http://dou.ua/calendar/9623/), [Видео](javascript:alert\('Скоро будут'\);)
 

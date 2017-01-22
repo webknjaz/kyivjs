@@ -25,25 +25,25 @@ If you want to share something with the community, we encourage you to [drop us 
 
     >
       [**Nikita Galkin**](https://twitter.com/galk_in)  
-      [Best practices of Node.js use in production]()
+      [Best practices of Node.js use in production](https://galk-in.github.io/kyivjs-2017)
 
   - ![](/static/speakers/alexey-raspopov.jpg)
 
     >
       [**Alexey Raspopov**](https://twitter.com/alexeyraspopov)  
-      ['This time I'll build things the right way']()
+      ['This time I'll build things the right way'](https://alexeyraspopov.github.io/the-right-way)
 
   - ![](/static/speakers/alexey-orlenko.jpg)
 
     >
       [**Alexey Orlenko**](https://www.linkedin.com/in/alexeyorlenko)  
-      ['Diving into Node.js' or how to start writing RPC and accidentally make node_redis 10 times faster]()
+      ['Diving into Node.js' or how to start writing RPC and accidentally make node_redis 10 times faster](https://aqrln.github.io/kyivjs-2017)
 
   - ![](/static/speakers/oleksandr-shpak.jpg)
 
     >
       [**Oleksandr Shpak**](https://www.linkedin.com/in/oleksandr-shpak-8915376)  
-      [Structure-event-based programming model in "z" framework]()
+      [Structure-event-based programming model in "z" framework](https://drive.google.com/file/d/0B5hEGrbXzEkMdW9NV21qdG9jeVk/view)
 
 ### [January 30th, 2016](http://dou.ua/calendar/9623/), [Videos](javascript:alert\('Coming soon'\);)
 
