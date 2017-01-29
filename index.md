@@ -10,10 +10,41 @@ layout: default
 ## Следующая встреча: 11 февраля, 2017
 <!--
 [Донская 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
+- ![]()
+
+  >
+    [**who**]()
+    [what]()
 -->
 11:00, [Горизонт-Парк башня 2, ул. Николая Амосова, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
 
 Если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
+
+- ![Irina Kalatalo](static/speakers/irina-kalatalo.jpg)
+
+  >
+    [**Irina Kalatalo**]()  
+    [TBA]()
+
+- ![Gregory Shehet](static/speakers/gregory-shehet.jpg)
+
+  >
+    [**Гриша Шехет**](https://www.linkedin.com/in/gregory-shehet-9a6a8983)  
+    [Styling React App or  
+     CSS in JS]()
+
+- ![Andrii Shumada](static/speakers/andrii-shumada.jpg)
+
+  >
+    [**Андрій Шумада**](https://www.linkedin.com/in/andriishumada)  
+    [Dude, where are my logs?]()
+
+- ![Illya Klymov](static/speakers/illya-klymov.jpg)
+
+  >
+    [**Илья Климов**](https://www.linkedin.com/in/illyaklymov)  
+    [TurboFan: yet another optimization engine]()
+
 
 ## Предыдущие встречи
 

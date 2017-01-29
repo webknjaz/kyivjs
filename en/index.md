@@ -15,6 +15,30 @@ layout: default
 
 If you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
+- ![Irina Kalatalo](/static/speakers/irina-kalatalo.jpg)
+
+  >
+    [**Irina Kalatalo**]()  
+    [TBA]()
+
+- ![Gregory Shehet](/static/speakers/gregory-shehet.jpg)
+
+  >
+    [**Gregory Shehet**](https://www.linkedin.com/in/gregory-shehet-9a6a8983)  
+    [Styling React App or  
+     CSS in JS]()
+
+- ![Andrii Shumada](/static/speakers/andrii-shumada.jpg)
+
+  >
+    [**Andrii Shumada**](https://www.linkedin.com/in/andriishumada)  
+    [Dude, where are my logs?]()
+
+- ![Illya Klymov](/static/speakers/illya-klymov.jpg)
+
+  >
+    [**Illya Klymov**](https://www.linkedin.com/in/illyaklymov)  
+    [TurboFan: yet another optimization engine]()
 
 
 ## Previous Speakers
