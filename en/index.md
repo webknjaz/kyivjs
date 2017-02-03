@@ -37,7 +37,7 @@ If you want to share something with the community, we encourage you to [drop us 
 - ![Valeriy Sorokobatko](/static/speakers/valeriy-sorokobatko.jpg)
 
   >
-    [**Valeriy Sorokobatko**](https://twitter.com/tuchk4)
+    [**Valeriy Sorokobatko**](https://twitter.com/tuchk4)  
     [Why I love Create React App and don't want to eject]()
 
 ## Previous Speakers

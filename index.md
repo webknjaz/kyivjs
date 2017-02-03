@@ -42,7 +42,7 @@ layout: default
 - ![Valeriy Sorokobatko](/static/speakers/valeriy-sorokobatko.jpg)
 
   >
-    [**Валерий Сорокобатько**](https://twitter.com/tuchk4)
+    [**Валерий Сорокобатько**](https://twitter.com/tuchk4)  
     [Why I love Create React App and don't want to eject]()
 
 ## Предыдущие встречи
