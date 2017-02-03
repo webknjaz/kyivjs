@@ -39,6 +39,11 @@ layout: default
     [**Илья Климов**](https://www.linkedin.com/in/illyaklymov)  
     [TurboFan: yet another optimization engine]()
 
+- ![Valeriy Sorokobatko](/static/speakers/valeriy-sorokobatko.jpg)
+
+  >
+    [**Валерий Сорокобатько**](https://twitter.com/tuchk4)
+    [Why I love Create React App and don't want to eject]()
 
 ## Предыдущие встречи
 
