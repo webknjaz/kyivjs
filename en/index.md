@@ -15,12 +15,6 @@ layout: default
 
 If you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
-- ![Irina Kalatalo](/static/speakers/irina-kalatalo.jpg)
-
-  >
-    [**Irina Kalatalo**]()  
-    [TBA]()
-
 - ![Gregory Shehet](/static/speakers/gregory-shehet.jpg)
 
   >

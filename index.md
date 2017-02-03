@@ -20,12 +20,6 @@ layout: default
 
 Если вы хотите чем-нибудь поделиться с комьюнити, [предложите доклад](#write-anchor). Мы поможем и это будет клёвый опыт.
 
-- ![Irina Kalatalo](static/speakers/irina-kalatalo.jpg)
-
-  >
-    [**Irina Kalatalo**]()  
-    [TBA]()
-
 - ![Gregory Shehet](static/speakers/gregory-shehet.jpg)
 
   >
