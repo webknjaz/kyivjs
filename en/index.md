@@ -5,7 +5,7 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Registration <br /> Coming soon]()
+  - [Registration](https://goo.gl/forms/MCeLNkUucsu3cS2j2)
 
 ## Upcoming Event: February 11th, 2017
 <!--
