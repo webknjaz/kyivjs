@@ -57,7 +57,7 @@ layout: default
 
     >
       [**Никита Галкин**](https://twitter.com/galk_in)  
-      [Best practices of Node.js use in production](https://galk-in.github.io/kyivjs-2017)
+      [Best practices of Node.js use in production](https://galkin.github.io/kyivjs-2017)
 
   - ![](/static/speakers/alexey-raspopov.jpg)
 
