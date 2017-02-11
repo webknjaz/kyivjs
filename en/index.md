@@ -5,42 +5,46 @@ layout: default
   - # ![KyivJS](/static/kyiv-js-rectangle-no-alpha.png)
   - [Twitter](https://twitter.com/kyivjs)
   - [Gitter](https://gitter.im/dev-ua/frontend-ua/kyivjs)
-  - [Registration](https://goo.gl/forms/MCeLNkUucsu3cS2j2)
+  - [Registration <br/> Coming Soon]()
 
-## Upcoming Event: February 11th, 2017
+## Upcoming Event: TBA
 <!--
 [Donskaya 4а](https://maps.yandex.ua/-/CVw9rZop) - - - [Digital Future](http://digital-future.org/) + [The App Solutions](http://theappsolutions.com/)
 -->
+<!--
 11 am, [Horizon Park Tower 2, Mykoly Amosova St, 12](https://yandex.ru/maps/-/CZT3UNIX) - [Ciklum](https://www.ciklum.com/)
+ -->
 
-If you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
-
-- ![Gregory Shehet](/static/speakers/gregory-shehet.jpg)
-
-  >
-    [**Gregory Shehet**](https://www.linkedin.com/in/gregory-shehet-9a6a8983)  
-    [Styling React App or  
-     CSS in JS]()
-
-- ![Andrii Shumada](/static/speakers/andrii-shumada.jpg)
-
-  >
-    [**Andrii Shumada**](https://www.linkedin.com/in/andriishumada)  
-    [Dude, where are my logs?]()
-
-- ![Illya Klymov](/static/speakers/illya-klymov.jpg)
-
-  >
-    [**Illya Klymov**](https://www.linkedin.com/in/illyaklymov)  
-    [TurboFan: yet another optimization engine]()
-
-- ![Valeriy Sorokobatko](/static/speakers/valeriy-sorokobatko.jpg)
-
-  >
-    [**Valeriy Sorokobatko**](https://twitter.com/tuchk4)  
-    [Why I love Create React App and don't want to eject]()
+Meanwhile, if you want to share something with the community, we encourage you to [drop us a line](#write-anchor).
 
 ## Previous Speakers
+
+### [February 11th, 2017](), [Videos](https://www.youtube.com/watch?v=dA2nJ9x0nrk)
+
+  - ![Gregory Shehet](/static/speakers/gregory-shehet.jpg)
+
+    >
+      [**Gregory Shehet**](https://www.linkedin.com/in/gregory-shehet-9a6a8983)  
+      [Styling React App or  
+       CSS in JS](https://drive.google.com/file/d/0B65dEGRmB3ViWmZJem9DQi1BblE/view?usp=sharing)
+
+  - ![Andrii Shumada](/static/speakers/andrii-shumada.jpg)
+
+    >
+      [**Andrii Shumada**](https://www.linkedin.com/in/andriishumada)  
+      [Dude, where are my logs?](https://docs.google.com/presentation/d/1mxZUZZe2Yo5WHGKWGOsGXUsTkX4EAiTdW-4e0bvbt-s/edit)
+
+  - ![Illya Klymov](/static/speakers/illya-klymov.jpg)
+
+    >
+      [**Illya Klymov**](https://www.linkedin.com/in/illyaklymov)  
+      [TurboFan: yet another optimization engine](https://docs.google.com/presentation/d/1uO_tx78nEG5Q7wh2MIfzLo5KjjEgBs_RMmSL9UQQQgI/edit)
+
+  - ![Valeriy Sorokobatko](/static/speakers/valeriy-sorokobatko.jpg)
+
+    >
+      [**Valeriy Sorokobatko**](https://twitter.com/tuchk4)  
+      [Why I love Create React App and don't want to eject](https://www.icloud.com/keynote/0Y-YSxs_21K-F3zftvVdU0oUw#Why_I_Love_Create_React_App)
 
 ### [January 21st, 2017](https://dou.ua/calendar/13768/), [Videos](javascript:alert\('Coming soon'\);)
 
