@@ -52,7 +52,7 @@ Meanwhile, if you want to share something with the community, we encourage you t
 
     >
       [**Nikita Galkin**](https://twitter.com/galk_in)  
-      [Best practices of Node.js use in production](https://galk-in.github.io/kyivjs-2017)
+      [Best practices of Node.js use in production](https://galkin.github.io/kyivjs-2017)
 
   - ![](/static/speakers/alexey-raspopov.jpg)
 
