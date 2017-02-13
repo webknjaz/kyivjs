@@ -24,7 +24,7 @@ layout: default
 
 ## Предыдущие встречи
 
-### [11 февраля, 2017](), [Видео](https://www.youtube.com/watch?v=dA2nJ9x0nrk)
+### [11 февраля, 2017](), [Видео](https://www.youtube.com/playlist?list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe)
 
   - ![Gregory Shehet](static/speakers/gregory-shehet.jpg)
 

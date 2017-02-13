@@ -19,7 +19,7 @@ Meanwhile, if you want to share something with the community, we encourage you t
 
 ## Previous Speakers
 
-### [February 11th, 2017](), [Videos](https://www.youtube.com/watch?v=dA2nJ9x0nrk)
+### [February 11th, 2017](), [Videos](https://www.youtube.com/playlist?list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe)
 
   - ![Gregory Shehet](/static/speakers/gregory-shehet.jpg)
 
