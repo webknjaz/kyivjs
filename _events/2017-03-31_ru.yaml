@@ -2,6 +2,7 @@
 sortDate: 20170331
 title: 31 Марта 2017
 lang: ru
+time: в 19:00
 upcoming: true
 location: wix
 # regLink: 'http://'
@@ -12,6 +13,6 @@ speakers:
 topics:
   shvayka:
     name: A word on regular expressions
-  voronianski:
+  mostovenko:
     name: Локализация в ES6 с помощью c-3po
 ---
