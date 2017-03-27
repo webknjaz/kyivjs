@@ -85,13 +85,13 @@ body {
 }
 
 .header__note {
-  color: #fff;
+  // color: #fff;
   font-size: 24px;
   margin-left: 250px;
 }
 
 .header__note a {
-  color: #fff;
+  // color: #fff;
 }
 
 .logo {
