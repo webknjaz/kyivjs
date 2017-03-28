@@ -135,7 +135,9 @@ body {
 }
 
 .main {
-  padding: 0 100px 0 250px;
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width: 800px;
 }
 
 
@@ -275,8 +277,9 @@ body {
 }
 
 .footer {
-  padding: 0 100px 100px 250px;
-  margin-top: 60px;
+  padding: 0 20px;
+  margin: 60px auto;
+  max-width: 800px;
 }
 
 .orgs {
