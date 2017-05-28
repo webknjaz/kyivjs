@@ -1,23 +1,23 @@
 {
   "uk": {
-  "register": "Зареєструватись",
-  "showMap": "Показати карту",
-  "founders": "Засновники ініціативи",
-  "orgs": "Куратори",
-  "lightnings": "Бліц-доповіді"
-},
-"ru": {
-  "register": "Зарегистрироваться",
-  "showMap": "Показать карту",
-  "founders": "Основатели инициативы",
-  "orgs": "Сейчас курируют",
-  "lightnings": "Блицдоклады"
-},
-"en": {
-  "register": "Register",
-  "showMap": "Show map",
-  "founders": "Meetup founder",
-  "orgs": "Currently organised by",
-  "lightnings": "Lightning talks"
-}
+    "register": "Зареєструватись",
+    "showMap": "Показати карту",
+    "founders": "Засновники ініціативи",
+    "orgs": "Куратори",
+    "lightnings": "Бліц-доповіді"
+  },
+  "ru": {
+    "register": "Зарегистрироваться",
+    "showMap": "Показать карту",
+    "founders": "Основатели инициативы",
+    "orgs": "Сейчас курируют",
+    "lightnings": "Блицдоклады"
+  },
+  "en": {
+    "register": "Register",
+    "showMap": "Show map",
+    "founders": "Meetup founder",
+    "orgs": "Currently organised by",
+    "lightnings": "Lightning talks"
+  }
 }
