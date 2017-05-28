@@ -1,7 +1,7 @@
 ---
 sortDate: 20170331
 title: 31 березня 2017
-lang: ua
+lang: uk
 time: '19:00'
 upcoming: false
 location: wix
@@ -21,20 +21,20 @@ lightnings:
   - speaker: markorel
     name: Читання для ледарів - Чистий код
     link: http://slides.com/markorel/deck
-   
+
   - speaker: liutikov
     name: The missing piece of modern front end architecture
     link: https://goo.gl/9m96pz
-  
+
   - speaker: evgenykozhura
     name: Fun with bitwise noise
     link: https://goo.gl/sD2wGz
-  
+
   - speaker: yavorsky
     name: Babel 2k17
     link: https://goo.gl/Ort2kw
-  
+
   - speaker: shehet
     name: CSS in JS
-    link: https://goo.gl/zsLCM6    
+    link: https://goo.gl/zsLCM6
 ---

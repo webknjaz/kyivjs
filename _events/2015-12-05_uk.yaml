@@ -1,17 +1,17 @@
 ---
 sortDate: 20151205
 title: 5 грудня 2015
-lang: ua
+lang: uk
 playlist: <iframe class="youtube" src="https://www.youtube.com/embed/videoseries?list=PLxw9RJPDS60qUL9tiH3Hh-xB8rY5xV2Cr" frameborder="0" allowfullscreen></iframe>
 speakers:
   - lavriv
   - muzalevskyi
   - sychov
 topics:
-  muzalevskyi: 
+  muzalevskyi:
     name: Interactive Path Search in Javascript
-  lavriv: 
+  lavriv:
     name: Data Access with OrbitJS
-  sychov: 
+  sychov:
     name: Learning How to Learn
 ---
