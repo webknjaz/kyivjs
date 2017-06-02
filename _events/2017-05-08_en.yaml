@@ -12,9 +12,9 @@ speakers:
   - stoyanov
 topics:
   yarosh:
-    name: "To Orm or not to Orm, Is there a life without it ?"
+    name: "To Orm or not to Orm, Is there a life without it?"
     lang: 'en'
   stoyanov:
-    name: "Principles of functional programming in javascript"
+    name: "Principles of Functional Programming in JavaScript"
     lang: 'ru'
 ---
