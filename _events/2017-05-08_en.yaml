@@ -1,0 +1,20 @@
+---
+sortDate: 20170608
+title: June 8, 2017
+lang: en
+time: '19:00'
+upcoming: true
+location: wix
+regLink: 'https://goo.gl/forms/joVim3ZcJnWCE4Gm2'
+regAnnounce: 'Registration on Monday, 5th of June @ 2 p.m.'
+speakers:
+  - yarosh
+  - stoyanov
+topics:
+  yarosh:
+    name: "To Orm or not to Orm, Is there a life without it?"
+    lang: 'en'
+  stoyanov:
+    name: "Principles of Functional Programming in JavaScript"
+    lang: 'ru'
+---

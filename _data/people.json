@@ -612,5 +612,27 @@
     "contact": "",
     "twitter": "IvanZusko",
     "github": "ivanzusko"
+  },
+  "stoyanov": {
+    "id": "stoyanov",
+    "name": {
+      "uk": "Денис Стоянов",
+      "ru": "Денис Стоянов",
+      "en": "Denis Stoyanov"
+    },
+    "avatar": "/static/speakers/denis-stoyanov.jpg",
+    "twitter": "xgrommx",
+    "github": "xgrommx"
+  },
+  "yarosh": {
+    "id": "yarosh",
+    "name": {
+      "uk": "Юрій Ярош",
+      "ru": "Юрий Ярош",
+      "en": "Yuri Yarosh"
+    },
+    "avatar": "/static/speakers/yuri-yarosh.jpg",
+    "twitter": "yuriy_yarosh",
+    "github": "yuriy-yarosh"
   }
 }
