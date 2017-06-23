@@ -3,18 +3,34 @@ sortDate: 20170608
 title: June 8, 2017
 lang: en
 time: '19:00'
-upcoming: true
+upcoming: false
 location: wix
 regLink: 'https://goo.gl/forms/ftRmFWt4QqzAJC6a2'
 regAnnounce: 'Registration on Monday, 5th of June @ 2 p.m.'
+playlist: <iframe class="youtube" src="https://www.youtube.com/embed/videoseries?list=PLxw9RJPDS60r6P1JoieCCw8fWuphMqviI" frameborder="0" allowfullscreen></iframe>
 speakers:
   - yarosh
   - stoyanov
 topics:
   yarosh:
     name: "To Orm or not to Orm, Is there a life without it?"
-    lang: 'en'
+    lang: 'ru'
+    link:
   stoyanov:
     name: "Principles of Functional Programming in JavaScript"
     lang: 'ru'
+    link: http://fp-in-js.surge.sh/#/
+lightnings:
+  - speaker: leo
+    name: "Make Ukrainian Great Again"
+    lang: 'uk'
+    link: https://drive.google.com/open?id=0B4xFRFS363tpdGhodi1wSTlaVjQ
+  - speaker: evgenykozhura
+    name: "Making Beats with Web Audio and RxJS"
+    lang: 'ru'
+    link: https://drive.google.com/open?id=0B4xFRFS363tpRmJscEF4LU90SEk
+  - speaker: blia
+    name: "New Babel Plugin - Transform CSSTag"
+    lang: 'ru'
+    link: https://blia.github.io/kyivjs-jun-8-2017/
 ---
