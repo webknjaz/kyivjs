@@ -634,5 +634,28 @@
     "avatar": "/static/speakers/yuri-yarosh.jpg",
     "twitter": "yuriy_yarosh",
     "github": "yuriy-yarosh"
+  },
+  "leo": {
+    "id": "leo",
+    "name": {
+      "uk": "Леонтій Грабовецький",
+      "ru": "Лео Грабовецкий",
+      "en": "Leontii Hrabovetskyi"
+    },
+    "avatar": "/static/speakers/leontii-hrabovetskyi.jpg",
+    "linkedin": "https://www.linkedin.com/in/leohrabovetskyi/",
+    "twitter": "m1n0s_ua",
+    "github": "m1n0s"
+  },
+  "blia": {
+    "id": "blia",
+    "name": {
+      "uk": "Кирил Яковенко",
+      "ru": "Кирилл Яковенко",
+      "en": "Kyrylo Yakovenko"
+    },
+    "avatar": "/static/speakers/kyrylo-yakovenko.jpg",
+    "twitter": "blia",
+    "github": "blia"
   }
 }
