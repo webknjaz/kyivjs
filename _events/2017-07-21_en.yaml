@@ -1,0 +1,24 @@
+---
+sortDate: 20170721
+title: July 21, 2017
+lang: en
+time: '19:00'
+upcoming: true
+location: wix
+regLink: 'https://goo.gl/forms/GhSb6vblJw56RwYw2'
+regAnnounce: 'Registration on Monday, 17th of July @ 2 p.m.'
+speakers:
+  - markorel
+  - slesarev
+topics:
+  markorel:
+    name: "The server is dead, long live the λάμδα!"
+    lang: 'ru'
+    link:
+  slesarev:
+    name: "Streams in Node.js and why they're good"
+    lang: 'ru'
+    link:
+lightnings:
+  - speaker: raspopov
+---
