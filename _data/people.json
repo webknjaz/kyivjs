@@ -281,7 +281,7 @@
     },
     "linkedin": "https://linkedin.com/in/alexey-raspopov-3632a336",
     "avatar": "/static/speakers/alexey-raspopov.jpg",
-    "contact": ""
+    "twitter": "alexeyraspopov"
   },
   "kazka": {
     "id": "kazka",
@@ -657,5 +657,17 @@
     "avatar": "/static/speakers/kyrylo-yakovenko.jpg",
     "twitter": "blia",
     "github": "blia"
+  },
+  "slesarev": {
+    "id": "slesarev",
+    "name": {
+      "uk": "Станіслав Слесарев",
+      "ru": "Станислав Слесарев",
+      "en": "Stanislav Slesarev"
+    },
+    "avatar": "/static/speakers/stanislav-slesarev.jpg",
+    "twitter": "shutyourprogram",
+    "github": "ceoworks",
+    "linkedin": "https://linkedin.com/in/stasjs"
   }
 }
