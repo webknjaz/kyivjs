@@ -8,17 +8,15 @@ location: wix
 regLink: 'https://goo.gl/forms/GhSb6vblJw56RwYw2'
 regAnnounce: 'Pеєстрація в понеділок, 17 липня о 14:00.'
 speakers:
-  - markorel
+  - raspopov
   - slesarev
 topics:
-  markorel:
-    name: "The server is dead, long live the λάμδα!"
-    lang: 'uk'
+  raspopov:
+    name: "Something about e2e testing"
+    lang: 'ru'
     link:
   slesarev:
     name: "Streams in Node.js and why they're good"
     lang: 'ru'
     link:
-lightnings:
-  - speaker: raspopov
 ---
