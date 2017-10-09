@@ -1,0 +1,24 @@
+---
+sortDate: 20171012
+title: October 12, 2017
+lang: uk
+time: '18:30'
+upcoming: true
+location: wix
+regLink: 'https://goo.gl/forms/QOZoOE6zBJSrh0zf1'
+regAnnounce: 'Pеєстрація в понеділок, 9 жовтня о 16:00'
+speakers:
+  - shehet
+  - makodzeba
+topics:
+  makodzeba:
+    name: "Why do we make our video player?"
+    lang: 'ru'
+  shehet:
+    name: "Holywars in a typings word"
+    lang: 'ru'
+lightnings:
+  - speaker: verinov
+    name: "Cache Already Done"
+    lang: 'ru'
+---
