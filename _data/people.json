@@ -704,5 +704,26 @@
     "twitter": "philipshurpik",
     "github": "philipshurpik",
     "linkedin": "https://www.linkedin.com/in/philipshurpik/"
+  },
+  "makodzeba": {
+    "id": "makodzeba",
+    "name": {
+      "uk": "Олексій Макодзеба",
+      "ru": "Олексей Макодзеба",
+      "en": "Oleksii Makodzeba"
+    },
+    "avatar": "/static/speakers/oleksii-makodzeba.jpg"
+  },
+  "verinov": {
+    "id": "verinov",
+    "name": {
+      "uk": "Антон Вєрінов",
+      "ru": "Антон Веринов",
+      "en": "Anton Verinov"
+    },
+    "avatar": "/static/speakers/anton-verinov.jpg",
+    "twitter": "zemlanin",
+    "github": "zemlanin",
+    "linkedin": "https://linkedin.com/in/verinov/"
   }
 }
