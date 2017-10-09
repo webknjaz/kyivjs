@@ -725,5 +725,16 @@
     "twitter": "zemlanin",
     "github": "zemlanin",
     "linkedin": "https://linkedin.com/in/verinov/"
+  },
+  "barabash": {
+    "id": "barabash",
+    "name": {
+      "uk": "Дмитро Барабаш",
+      "ru": "Дмитрий Барабаш",
+      "en": "Dmitry Barabash"
+    },
+    "avatar": "/static/speakers/dmitry-barabash.jpg",
+    "twitter": "dbarabashdev",
+    "github": "dbarabashdev"
   }
 }

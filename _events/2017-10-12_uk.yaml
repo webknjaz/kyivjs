@@ -21,4 +21,7 @@ lightnings:
   - speaker: verinov
     name: "Cache Already Done"
     lang: 'ru'
+  - speaker: barabash
+    name: "Create your site with Gatsby"
+    lang: 'ru'
 ---
