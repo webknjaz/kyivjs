@@ -24,4 +24,7 @@ lightnings:
   - speaker: barabash
     name: "Create your site with Gatsby"
     lang: 'ru'
+  - speaker: raspopov
+    name: "Cheap & Efficient Data Models for Your Frontend"
+    lang: 'ru'
 ---
