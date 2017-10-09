@@ -12,7 +12,7 @@ speakers:
   - makodzeba
 topics:
   makodzeba:
-    name: "Зачем мы делаем свой видеоплеер?"
+    name: "Why do we make our video player?"
     lang: 'ru'
   shehet:
     name: "Holywars in a typings word"
