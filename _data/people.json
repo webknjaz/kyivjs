@@ -736,5 +736,15 @@
     "avatar": "/static/speakers/dmitry-barabash.jpg",
     "twitter": "dbarabashdev",
     "github": "dbarabashdev"
+  },
+  "kryshtal": {
+    "id": "kryshtal",
+    "name": {
+      "uk": "Андрій Кришталь",
+      "ru": "Андрей Крышталь",
+      "en": "Andrew Kryshtal"
+    },
+    "avatar": "/static/speakers/andrew-kryshtal.jpg",
+    "twitter": "KryshtalAndrew"
   }
 }
