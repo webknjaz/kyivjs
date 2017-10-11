@@ -27,4 +27,7 @@ lightnings:
   - speaker: raspopov
     name: "Cheap & Efficient Data Models for Your Frontend"
     lang: 'ru'
+  - speaker: kryshtal
+    name: "Нетворкінг для чайників"
+    lang: 'ru'
 ---
