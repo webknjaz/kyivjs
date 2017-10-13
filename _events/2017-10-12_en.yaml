@@ -3,10 +3,11 @@ sortDate: 20171012
 title: October 12, 2017
 lang: en
 time: '18:30'
-upcoming: true
+upcoming: false
 location: wix
 regLink: 'https://goo.gl/forms/QOZoOE6zBJSrh0zf1'
 regAnnounce: 'Registration on Monday, 14th of August @ 4 p.m.'
+playlist: <iframe class="youtube" src="https://www.youtube.com/embed/rv-5FtJxNic" frameborder="0" allowfullscreen></iframe>
 speakers:
   - shehet
   - makodzeba
@@ -14,13 +15,16 @@ topics:
   makodzeba:
     name: "Why do we make our video player?"
     lang: 'ru'
+    link: 'https://docs.google.com/presentation/d/1FN0T2hFYmPh-A1OEpM6S8P4pIOSL8lClkxYMfx1jqXw/edit#slide=id.g26f9308039_0_24'
   shehet:
-    name: "Holywars in a typings words"
+    name: "Holywars in a typings world"
     lang: 'ru'
+    link: 'https://drive.google.com/file/d/0B4xFRFS363tpZXJRX2V4Z25WaTQ/view'
 lightnings:
   - speaker: verinov
     name: "Cache Already Done"
     lang: 'ru'
+    link: 'http://anton.codes/talks/cache/'
   - speaker: barabash
     name: "Create your site with Gatsby"
     lang: 'ru'
