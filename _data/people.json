@@ -704,5 +704,69 @@
     "twitter": "philipshurpik",
     "github": "philipshurpik",
     "linkedin": "https://www.linkedin.com/in/philipshurpik/"
+  },
+  "makodzeba": {
+    "id": "makodzeba",
+    "name": {
+      "uk": "Олексій Макодзеба",
+      "ru": "Олексей Макодзеба",
+      "en": "Oleksii Makodzeba"
+    },
+    "avatar": "/static/speakers/oleksii-makodzeba.jpg"
+  },
+  "verinov": {
+    "id": "verinov",
+    "name": {
+      "uk": "Антон Вєрінов",
+      "ru": "Антон Веринов",
+      "en": "Anton Verinov"
+    },
+    "avatar": "/static/speakers/anton-verinov.jpg",
+    "twitter": "zemlanin",
+    "github": "zemlanin",
+    "linkedin": "https://linkedin.com/in/verinov/"
+  },
+  "barabash": {
+    "id": "barabash",
+    "name": {
+      "uk": "Дмитро Барабаш",
+      "ru": "Дмитрий Барабаш",
+      "en": "Dmitry Barabash"
+    },
+    "avatar": "/static/speakers/dmitry-barabash.jpg",
+    "twitter": "dbarabashdev",
+    "github": "dbarabashdev"
+  },
+  "kryshtal": {
+    "id": "kryshtal",
+    "name": {
+      "uk": "Андрій Кришталь",
+      "ru": "Андрей Крышталь",
+      "en": "Andrew Kryshtal"
+    },
+    "avatar": "/static/speakers/andrew-kryshtal.jpg",
+    "twitter": "KryshtalAndrew"
+  },
+  "skachkov": {
+    "id": "skachkov",
+    "name": {
+      "uk": "Олександр Скачков",
+      "ru": "Александр Скачков",
+      "en": "Oleksandr Skachkov"
+    },
+    "avatar": "/static/speakers/oleksandr-skachkov.jpg",
+    "twitter": "alSkachkov",
+    "linkedin": "https://www.linkedin.com/in/alexskachkov/"
+  },
+  "syrotenko": {
+    "id": "syrotenko",
+    "name": {
+      "uk": "Олександр Сиротенко",
+      "ru": "Александр Сиротенко",
+      "en": "Oleksandr Syrotenko"
+    },
+    "avatar": "/static/speakers/oleksandr-syrotenko.jpg",
+    "twitter": "FlyCreat1ve",
+    "github": "Fly-Style"
   }
 }
