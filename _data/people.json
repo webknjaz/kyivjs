@@ -746,5 +746,27 @@
     },
     "avatar": "/static/speakers/andrew-kryshtal.jpg",
     "twitter": "KryshtalAndrew"
+  },
+  "skachkov": {
+    "id": "skachkov",
+    "name": {
+      "uk": "Олександр Скачков",
+      "ru": "Александр Скачков",
+      "en": "Oleksandr Skachkov"
+    },
+    "avatar": "/static/speakers/oleksandr-skachkov.jpg",
+    "twitter": "alSkachkov",
+    "linkedin": "https://www.linkedin.com/in/alexskachkov/"
+  },
+  "syrotenko": {
+    "id": "syrotenko",
+    "name": {
+      "uk": "Олександр Сиротенко",
+      "ru": "Александр Сиротенко",
+      "en": "Oleksandr Syrotenko"
+    },
+    "avatar": "/static/speakers/oleksandr-syrotenko.jpg",
+    "twitter": "FlyCreat1ve",
+    "github": "Fly-Style"
   }
 }
