@@ -1,9 +1,9 @@
 ---
 sortDate: 20171130
-title: November 30, 2017
+title: 30 листопада 2017
 lang: uk
 time: '18:30'
-upcoming: true
+upcoming: false
 location: wix
 regLink: 'https://goo.gl/forms/Kbtnjieexacva7Mz1'
 regAnnounce: 'Pеєстрація в понеділок, 27 листопада о 14:00'
@@ -17,4 +17,5 @@ topics:
   syrotenko:
     name: "Garbage collection in V8 VM"
     lang: 'ru'
+    link: "https://drive.google.com/file/d/0B4xFRFS363tpMkR0UlE4OGNMd1FNV3hOSnZrUTZneWxEa0NN/view"
 ---
