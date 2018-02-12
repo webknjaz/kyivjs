@@ -3,7 +3,7 @@ sortDate: 20171130
 title: November 30, 2017
 lang: en
 time: '18:30'
-upcoming: true
+upcoming: false
 location: wix
 regLink: 'https://goo.gl/forms/Kbtnjieexacva7Mz1'
 regAnnounce: 'Registration on Monday, 27th of November @ 14:00'
@@ -14,7 +14,19 @@ topics:
   skachkov:
     name: "WebAssembly Overview"
     lang: 'ru'
+    link: "https://docs.google.com/presentation/d/1b9UwylxPZ_91kjPYZUpeNWF3p9XDOtV-AXOcufbI75E/edit"
   syrotenko:
     name: "Garbage collection in V8 VM"
     lang: 'ru'
+    link: "https://drive.google.com/file/d/0B4xFRFS363tpMkR0UlE4OGNMd1FNV3hOSnZrUTZneWxEa0NN/view"
+lightnings:
+  - speaker: malinovsky
+    name: "Creating a Startup that Flies"
+    lang: "ru"
+    link: 'https://drive.google.com/file/d/1JyFWNT612iFJn3guBDHmsSs3FUFy5nca/view'
+  - speaker: john
+    name: "Common Lisp:
+10 Things I Didn't Know About"
+    lang: "ru"
+    link: "http://sudodoki.github.io/slides/lisp-%E2%9A%A1%EF%B8%8F/#/"
 ---

@@ -768,5 +768,15 @@
     "avatar": "/static/speakers/oleksandr-syrotenko.jpg",
     "twitter": "FlyCreat1ve",
     "github": "Fly-Style"
+  },
+  "malinovsky": {
+    "id": "malinovsky",
+    "name":{
+      "uk": "Анатолій Маліновський",
+      "ru": "Анатолий Малиновский",
+      "en": "Anatoly Malinovsky"
+    },
+    "avatar": "/static/speakers/anatoly-malinovsky.jpg",
+    "github": "malinowsky"
   }
 }
