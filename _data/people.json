@@ -650,7 +650,7 @@
   "blia": {
     "id": "blia",
     "name": {
-      "uk": "Кирил Яковенко",
+      "uk": "Кирило Яковенко",
       "ru": "Кирилл Яковенко",
       "en": "Kyrylo Yakovenko"
     },
@@ -778,5 +778,28 @@
     },
     "avatar": "/static/speakers/anatoly-malinovsky.jpg",
     "github": "malinowsky"
+  },
+  "shemsedinov": {
+    "id": "shemsedinov",
+    "name":{
+      "uk": "Тимур Шемседінов",
+      "ru": "Тимур Шемсединов",
+      "en": "Timur Shemsedinov"
+    },
+    "avatar": "/static/speakers/timur-shemsedinov.jpg",
+    "github": "tshemsedinov",
+    "twitter": "ImpressAppSrv",
+    "linkedin": "https://linkedin.com/in/shemsedinov"
+  },
+  "tretyakov":{
+    "id": "tretyakov",
+    "name": {
+      "uk": "Едуард Третʼяков",
+      "ru": "Эдуард Третьяков",
+      "en": "Eduard Tretyakov"
+    },
+    "avatar": "/static/speakers/eduard-tretyakov.jpg",
+    "github": "elhsmart",
+    "twitter": "elhsmart"
   }
 }

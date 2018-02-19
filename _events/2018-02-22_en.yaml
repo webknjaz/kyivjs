@@ -1,0 +1,30 @@
+---
+sortDate: 20180222
+title: February 22, 2018
+lang: en
+time: '18:30'
+upcoming: true
+location: grammarly
+regLink: 'https://docs.google.com/forms/d/e/1FAIpQLSffVKf3anSm4YKiof7MXcheqcITp7vgKwz9eePNcaL94IGkkw/viewform'
+regAnnounce: 'Registration on Monday, 19th of February @ 16:00'
+speakers:
+  - shemsedinov
+  - tretyakov
+topics:
+  shemsedinov:
+    name: "Metarhia Will Come - Order Will Bring. Featuring Oleksiy Orlenko"
+    lang: 'ru'
+  tretyakov:
+    name: "Sensing Your World With Espruino"
+    lang: 'ru'
+lightnings:
+  - speaker: markorel
+    name: "Try-catch me if you can"
+    lang: "ru"
+  - speaker: blia
+    name: "Map/WeakMap/Set/WeakSet"
+    lang: "ru"
+  - speaker: shehet
+    name: "Frontend Digest"
+    lang: "ru"
+---
