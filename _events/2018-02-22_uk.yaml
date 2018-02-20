@@ -1,0 +1,30 @@
+---
+sortDate: 20180222
+title: 22 лютого 2018
+lang: uk
+time: '18:30'
+upcoming: true
+location: grammarly
+regLink: 'https://docs.google.com/forms/d/e/1FAIpQLSffVKf3anSm4YKiof7MXcheqcITp7vgKwz9eePNcaL94IGkkw/viewform'
+regAnnounce: 'Pеєстрація в понеділок, 19 лютого, о 16:00'
+speakers:
+  - shemsedinov
+  - tretyakov
+topics:
+  shemsedinov:
+    name: '"Метархия придет - порядок наведет". За участі Олексія Орленко'
+    lang: 'ru'
+  tretyakov:
+    name: "Sensing Your World With Espruino"
+    lang: 'ru'
+lightnings:
+  - speaker: markorel
+    name: "Try-catch me if you can"
+    lang: "ru"
+  - speaker: blia
+    name: "Map/WeakMap/Set/WeakSet"
+    lang: "ru"
+  - speaker: shehet
+    name: "Frontend Digest"
+    lang: "ru"
+---
