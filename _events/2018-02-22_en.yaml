@@ -3,28 +3,36 @@ sortDate: 20180222
 title: February 22, 2018
 lang: en
 time: '18:30'
-upcoming: true
+upcoming: false
 location: grammarly
 regLink: 'https://docs.google.com/forms/d/e/1FAIpQLSffVKf3anSm4YKiof7MXcheqcITp7vgKwz9eePNcaL94IGkkw/viewform'
 regAnnounce: 'Registration on Monday, 19th of February @ 16:00'
+playlist: '<iframe  class="youtube"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLxw9RJPDS60piISpypsYP2dl8J8Ft9CUJ"
+frameborder="0" allowfullscreen></iframe>'
 speakers:
-  - shemsedinov
   - tretyakov
+  - shemsedinov
 topics:
-  shemsedinov:
-    name: "Metarhia Will Come - Order Will Bring. Featuring Oleksiy Orlenko"
-    lang: 'ru'
   tretyakov:
     name: "Sensing Your World With Espruino"
     lang: 'ru'
+    link: 'https://goo.gl/U4mGXV'
+  shemsedinov:
+    name: "Metarhia Will Come - Order Will Bring. Featuring Oleksiy Orlenko"
+    lang: 'ru'
+    link: 'https://goo.gl/axVvG4'
 lightnings:
   - speaker: markorel
     name: "Try-catch me if you can"
-    lang: "ru"
+    lang: "uk"
+    link: 'http://slides.com/markorel/try-catch'
   - speaker: blia
     name: "Map/WeakMap/Set/WeakSet"
     lang: "ru"
+    link: 'https://goo.gl/UuMuyT'
   - speaker: shehet
     name: "Frontend Digest"
     lang: "ru"
+    link: 'https://goo.gl/yGUUDX'
 ---
