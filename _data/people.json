@@ -801,5 +801,26 @@
     "avatar": "/static/speakers/eduard-tretyakov.jpg",
     "github": "elhsmart",
     "twitter": "elhsmart"
+  },
+  "gavrylov": {
+    "id": "gavrylov",
+    "name": {
+      "uk": "Стас Гаврилов",
+      "ru": "Стас Гаврилов",
+      "en": "Stas Gavrylov"
+    },
+    "github": "stasgavrylov",
+    "twitter": "stasgavrylov",
+    "linkedin": "https://ua.linkedin.com/in/stasgavrylov"
+  },
+  "denysov": {
+    "id": "denysov",
+    "name": {
+      "uk": "Костянтин Денисов",
+      "ru": "Константин Денисов",
+      "en": "Kostiantyn Denysov"
+    },
+    "github": "denysovkos",
+    "linkedin": "https://www.linkedin.com/in/kostyantyn-denysov-6a889889/"
   }
 }
