@@ -822,5 +822,29 @@
     },
     "github": "denysovkos",
     "linkedin": "https://www.linkedin.com/in/kostyantyn-denysov-6a889889/"
+  },
+  "akimov": {
+    "id": "akimov",
+    "name": {
+      "uk": "Віталій Акімов",
+      "ru": "Виталий Акимов",
+      "en": "Vitalii Akimov"
+    },
+    "avatar": "/static/speakers/vitalii-akimov.jpg",
+    "github": "awto",
+    "twitter": "vitalii_akimov",
+    "linkedin": "https://www.linkedin.com/in/vitaliy-akimov-a229146/"
+  },
+  "croftyland": {
+    "id": "croftyland",
+    "name": {
+      "uk": "Христина Ландвитович",
+      "ru": "Кристина Ландвитович",
+      "en": "Christina Landvytovych"
+    },
+    "avatar": "/static/speakers/christina-landvytovych.jpg",
+    "github": "Croftyland",
+    "twitter": "croftyland",
+    "linkedin": "https://www.linkedin.com/in/vitaliy-akimov-a229146/"
   }
 }
