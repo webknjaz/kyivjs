@@ -38,6 +38,10 @@
                     <span class="human__talk-lang">{{talkLang}}</span>
                   {% endif %}
                 </h5>
+                {% assign talkAbout = topics[human.id].about %}
+                {% if talkAbout != nil %}
+                  <p class="human__talk-about">{{talkAbout}}</p>
+                {% endif %}
               {% endif %}
             </div>
           </div>
