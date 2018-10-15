@@ -846,5 +846,38 @@
     "github": "Croftyland",
     "twitter": "croftyland",
     "linkedin": "https://www.linkedin.com/in/vitaliy-akimov-a229146/"
+  },
+  "flpvsk": {
+    "id": "flpvsk",
+    "name": {
+      "uk": "Андрій Саломатін",
+      "ru": "Андрей Саломатин",
+      "en": "Andrey Salomatin"
+    },
+    "avatar": "/static/speakers/andrey-salomatin.png",
+    "github": "flpvsk",
+    "twitter": "flpvsk",
+    "linkedin": "https://www.linkedin.com/in/flpvsk/"
+  },
+  "havrylin": {
+    "id": "havrylin",
+    "name": {
+      "uk": "Віктор Гаврилін",
+      "ru": "Виктор Гаврилин",
+      "en": "Viktor Havrylin"
+    },
+    "avatar": "/static/speakers/viktor-havrylin.png",
+    "github": "Fer0x",
+    "twitter": "_fer0x",
+    "linkedin": "https://www.linkedin.com/in/viktor-havrylin"
+  },
+  "bezugly": {
+    "id": "bezugly",
+    "name": {
+      "uk": "Максим Безуглий",
+      "ru": "Максим Безуглий",
+      "en": "Max Bezugly"
+    },
+    "avatar": "/static/speakers/max-bezugly.jpg"
   }
 }
