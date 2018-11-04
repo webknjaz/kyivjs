@@ -217,15 +217,14 @@
     "avatar": "/static/speakers/vladimir-agafonkin.jpg",
     "contact": ""
   },
-  "miller": {
-    "id": "miller",
+  "paulm": {
+    "id": "paulm",
     "name": {
-      "uk": "Пол Міллер",
-      "ru": "Пол Миллер",
-      "en": "Paul Miller"
+      "uk": "Пол М",
+      "ru": "Пол М",
+      "en": "Paul M"
     },
-    "linkedin": "https://sg.linkedin.com/in/paulmillr",
-    "avatar": "/static/speakers/paul-miller.jpg",
+    "avatar": "/static/speakers/paul-m.jpg",
     "contact": ""
   },
   "turskyi": {
